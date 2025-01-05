@@ -7,7 +7,7 @@
 - openssl-3.4.0 
 - zlib-ng-2.2.2
 - libudns 
-- xmlrpc-c_stable
+- xmlrpc-c_stable(rtorrent<0.15.0 or stickz-rtorrent<7.0)
 - musl-1.2.4
 - mimalloc-2.1.7
 
